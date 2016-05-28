@@ -1,6 +1,8 @@
 # Aeroteque
 Desktop, VR and Google Tango game made with Unity. Can be used as a tutorial on how to make a VR platformer, optionally with motion tracking from Google Tango.
 
+![Feature image](http://i.imgur.com/43MFmtI.png)
+
 ## Play
 WebGL: http://dustyroom.com/aeroteque/webgl
 
