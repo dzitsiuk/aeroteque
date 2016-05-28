@@ -8,6 +8,8 @@ WebGL: http://dustyroom.com/aeroteque/webgl
 
 Google Play (requires Google Tango): https://play.google.com/store/apps/details?id=com.dustyroom.aeroteque
 
+Screenshots: http://imgur.com/a/cdQNg/all
+
 
 ## Game
 Hop as many times as possible. These primitive platforms gradually disappear: with each time measure they lose an edge, until there's nothing left.
