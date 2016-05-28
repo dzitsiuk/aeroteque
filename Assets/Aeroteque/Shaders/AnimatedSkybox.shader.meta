@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2c58d5a50edb44530b85c6900684d06e
+labels:
+- Unlit
+- Shader
+- Flat
+- Gradient
+timeCreated: 1460927116
+licenseType: Free
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

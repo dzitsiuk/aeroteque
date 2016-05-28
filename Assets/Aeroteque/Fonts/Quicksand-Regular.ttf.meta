@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 97315fd311e9646a18b8696c4e8a1146
+timeCreated: 1460987175
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 3
+  fontSize: 300
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontNames:
+  - Quicksand
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
