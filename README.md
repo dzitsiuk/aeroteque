@@ -8,6 +8,8 @@ WebGL: http://dustyroom.com/aeroteque/webgl
 
 Google Play (requires Google Tango): https://play.google.com/store/apps/details?id=com.dustyroom.aeroteque
 
+Video: https://youtu.be/CtUVEP-ds-A
+
 Screenshots: http://imgur.com/a/cdQNg/all
 
 
