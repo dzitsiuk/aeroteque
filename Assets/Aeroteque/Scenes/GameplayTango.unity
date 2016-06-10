@@ -1692,7 +1692,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxDistance: 1000
-  globalMinY: 0
+  globalMinY: -50
   targetObject: {fileID: 637550263}
 --- !u!114 &762511753
 MonoBehaviour:
